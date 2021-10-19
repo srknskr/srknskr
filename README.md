@@ -23,9 +23,9 @@
 <a href="https://linkedin.com/in/serky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="serky" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/13341580" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13341580" height="30" width="40" /></a>
 <a href="https://instagram.com/sserkansekerr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sserkansekerr" height="30" width="40" /></a>
-<a href="https://medium.com/@serkan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@serkan" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/serkan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="serkan" height="30" width="40" /></a>
-<a href="/https://www.serkanseker.com/feed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://www.serkanseker.com/feed/" height="30" width="40" /></a>
+<a href="https://medium.com/@serkanseker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@serkanseker" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/serkanseker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="serkanseker" height="30" width="40" /></a>
+<a href="/https://www.serkanseker.com/feed/atom/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://www.serkanseker.com/feed/atom/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
