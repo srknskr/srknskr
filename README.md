@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **JavaScript and algorithms**
 
-- 👨‍💻 All of my projects are available at [https://play.google.com/store/apps/developer?id=Serkan+%C5%9Eeker](https://play.google.com/store/apps/developer?id=Serkan+%C5%9Eeker)
+- 👨‍💻 All of my projects are available at [https://play.google.com/store/apps/developer?id=Serkan+%C5%9Eeker]([https://play.google.com/store/apps/developer?id=Serkan+%C5%9Eeker](https://play.google.com/store/apps/dev?id=6484845512832665690))
 
 - 📝 I regularly write articles on [https://www.serkanseker.com/](https://www.serkanseker.com/)
 
