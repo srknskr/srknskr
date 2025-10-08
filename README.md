@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Serkan</h1>
-<h3 align="center">A Android/iOS mobile developer from Germany</h3>
+<h3 align="center">Android/iOS mobile developer from Germany</h3>
 
 - 🔭 I’m currently working on [Loopsic Mobile App](https://play.google.com/store/apps/details?id=com.serkanseker.loopsic)
 
