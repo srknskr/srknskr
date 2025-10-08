@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Serkan</h1>
-<h3 align="center">A freelancer mobile developer from Turkey</h3>
+<h3 align="center">A Android/iOS mobile developer from Germany</h3>
 
 - 🔭 I’m currently working on [Loopsic Mobile App](https://play.google.com/store/apps/details?id=com.serkanseker.loopsic)
 
-- 🌱 I’m currently learning **JavaScript and algorithms**
+- 🌱 I’m currently learning **JavaScript and advanced algorithms**
 
-- 👨‍💻 All of my projects are available at [Play Store](https://play.google.com/store/apps/dev?id=6484845512832665690)
+- 👨‍💻 All of my Android projects are available at [Play Store](https://play.google.com/store/apps/dev?id=6484845512832665690)
+-  👨‍💻 All of my iOS projects are available at [App Store](https://apps.apple.com/us/developer/serkan-seker/id1645855249)
 
 - 📝 I regularly write articles on [https://www.serkanseker.com/](https://www.serkanseker.com/)
 
