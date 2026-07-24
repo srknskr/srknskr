@@ -1,11 +1,12 @@
 # Hi, I'm Serkan Şeker 👋
 
-Mobile and backend software developer based in Germany. I build Android and iOS products and maintain C#/.NET projects that demonstrate API design, data persistence, mobile architecture, and third-party service integration.
+Software developer based in Germany. I build mobile, backend, and native audio products across C#/.NET, Kotlin, Swift, and C++/JUCE, with a focus on clear architecture, reliable integrations, and production delivery.
 
 ## Featured engineering projects
 
 | Project | Focus |
 |---|---|
+| [Audio Plugin Engineering Case Study](https://github.com/srknskr/audio-plugin-engineering-case-study) | Source-free JUCE/C++ case study covering VST3/AU, real-time audio, DAW tempo sync, drag-and-drop, licensing, and cross-platform builds |
 | [PaletteCoreAPI](https://github.com/srknskr/PaletteCoreAPI) | Authenticated .NET 10 REST API with EF Core, SQL Server, JWT authorization, migrations, integration tests, and CI |
 | [MusicPlayer](https://github.com/srknskr/MusicPlayer) | Legacy Xamarin.Forms Spotify browser and preview player demonstrating MVVM-style UI, REST integration, and media controls |
 | [Weather](https://github.com/srknskr/Weather) | Legacy Xamarin.Forms weather client with OpenWeatherMap, NewsAPI, SQLite saved places, caching, and charts |
@@ -15,6 +16,7 @@ Each repository documents its real architecture, setup requirements, verified bu
 
 ## Current work
 
+- [Loopsic](https://www.serkanmusic.com/) — drum and guitar loop plugin for desktop DAWs
 - [Loopsic Mobile App](https://play.google.com/store/apps/details?id=com.serkanseker.loopsic)
 - Android applications on [Google Play](https://play.google.com/store/apps/dev?id=6484845512832665690)
 - iOS applications on the [App Store](https://apps.apple.com/us/developer/serkan-seker/id1645855249)
@@ -22,7 +24,7 @@ Each repository documents its real architecture, setup requirements, verified bu
 
 ## Core technologies
 
-C#, .NET, ASP.NET Core, Entity Framework, SQL Server, SQLite, Kotlin, Swift, Android, iOS, REST APIs, Git, and CI/CD.
+C#, .NET, ASP.NET Core, Entity Framework, SQL Server, SQLite, C++20, JUCE, CMake, Kotlin, Swift, Android, iOS, REST APIs, Git, and CI/CD.
 
 ## Connect
 
