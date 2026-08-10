@@ -7,6 +7,8 @@ Software developer based in Germany. I build mobile, backend, and native audio p
 | Project | Focus |
 |---|---|
 | [Audio Plugin Engineering Case Study](https://github.com/srknskr/audio-plugin-engineering-case-study) | Source-free JUCE/C++ case study covering VST3/AU, real-time audio, DAW tempo sync, drag-and-drop, licensing, and cross-platform builds |
+| [Trace-Guided Android Testing](https://github.com/srknskr/trace-guided-android-testing) | Research companion integrating recorded user interactions into MATE search-based Android GUI test generation |
+| [AppRecording](https://github.com/srknskr/apprecording) | Sanitized Android accessibility recorder capturing user interaction traces and UI state snapshots for test automation |
 | [PaletteCoreAPI](https://github.com/srknskr/PaletteCoreAPI) | Authenticated .NET 10 REST API with EF Core, SQL Server, JWT authorization, migrations, integration tests, and CI |
 | [MusicPlayer](https://github.com/srknskr/MusicPlayer) | Legacy Xamarin.Forms Spotify browser and preview player demonstrating MVVM-style UI, REST integration, and media controls |
 | [Weather](https://github.com/srknskr/Weather) | Legacy Xamarin.Forms weather client with OpenWeatherMap, NewsAPI, SQLite saved places, caching, and charts |
