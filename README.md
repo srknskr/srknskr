@@ -6,7 +6,7 @@ Software developer based in Germany. I build mobile, backend, and native audio p
 
 | Project | Focus |
 |---|---|
-| [Thesis Testing Replication Package](https://github.com/srknskr/thesis-testing-replication-package) | Reproducible doctoral thesis artifact covering trace-guided genetic algorithms, record-and-replay similarity, Android GUI testing, coverage analysis, statistics, figures, and publication-ready tables |
+| [Thesis Testing Replication Package](https://github.com/srknskr/thesis-testing-replication-package) | Reproducible master thesis artifact covering trace-guided genetic algorithms, record-and-replay similarity, Android GUI testing, coverage analysis, statistics, figures, and publication-ready tables |
 | [Audio Plugin Engineering Case Study](https://github.com/srknskr/audio-plugin-engineering-case-study) | Source-free JUCE/C++ case study covering VST3/AU, real-time audio, DAW tempo sync, drag-and-drop, licensing, and cross-platform builds |
 | [Trace-Guided Android Testing](https://github.com/srknskr/trace-guided-android-testing) | Research companion integrating recorded user interactions into MATE search-based Android GUI test generation |
 | [AppRecording](https://github.com/srknskr/apprecording) | Sanitized Android accessibility recorder capturing user interaction traces and UI state snapshots for test automation |
