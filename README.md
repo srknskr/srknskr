@@ -6,7 +6,7 @@ Software developer based in Germany. I build mobile, backend, and native audio p
 
 | Project | Focus |
 |---|---|
-| [AutoMIR](https://github.com/srknskr/AutoMIR) | Multi-objective automated machine learning for rhythm understanding (tempo estimation & style classification) with Pareto NSGA-II optimization, PyTorch CNNs/BiGRUs, and real-time Streamlit dashboard |
+| [AudioMIR](https://github.com/srknskr/AudioMIR) | Multi-objective automated machine learning for rhythm understanding (tempo estimation & style classification) with Pareto NSGA-II optimization, PyTorch CNNs/BiGRUs, and real-time Streamlit dashboard |
 | [Thesis Testing Replication Package](https://github.com/srknskr/thesis-testing-replication-package) | Reproducible master thesis artifact covering trace-guided genetic algorithms, record-and-replay similarity, Android GUI testing, coverage analysis, statistics, figures, and publication-ready tables |
 | [Audio Plugin Engineering Case Study](https://github.com/srknskr/audio-plugin-engineering-case-study) | Source-free JUCE/C++ case study covering VST3/AU, real-time audio, DAW tempo sync, drag-and-drop, licensing, and cross-platform builds |
 | [Trace-Guided Android Testing](https://github.com/srknskr/trace-guided-android-testing) | Research companion integrating recorded user interactions into MATE search-based Android GUI test generation |
