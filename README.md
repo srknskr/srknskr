@@ -35,7 +35,7 @@ Software developer based in Germany. I build mobile, backend, and native audio p
 </td>
 <td valign="top" width="33%">
 <h3>DrumRogue</h3>
-<a href="https://github.com/srknskr/DrumRogue-Android-showcase"><img src="https://raw.githubusercontent.com/srknskr/DrumRogue-Android-showcase/main/IMG_0983.png" width="180" alt="DrumRogue collection screen"></a>
+<a href="https://github.com/srknskr/DrumRogue-Android-showcase"><img src="https://raw.githubusercontent.com/srknskr/DrumRogue-Android-showcase/main/IMG_0979.png" width="180" alt="DrumRogue stage introduction screen"></a>
 <p><a href="https://github.com/srknskr/DrumRogue-Android-showcase">DrumRogue-Android-showcase</a></p>
 </td>
 </tr>
