@@ -39,19 +39,7 @@ Software developer based in Germany. I build mobile, backend, and native audio p
 <p><a href="https://github.com/srknskr/DrumRogue-Android-showcase">DrumRogue-Android-showcase</a></p>
 </td>
 </tr>
-<tr>
-<td valign="top" width="33%">
-<h3>DrumBeats Huawei</h3>
-<p><em>Android screenshot pending</em></p>
-<p><a href="https://github.com/srknskr/DrumBeatsHuawei-Android-showcase">DrumBeatsHuawei-Android-showcase</a></p>
-</td>
-<td valign="top" width="33%">
-<h3>Sound Effects</h3>
-<p><em>Android screenshot pending</em></p>
-<p><a href="https://github.com/srknskr/SoundEffects-Android-showcase">SoundEffects-Android-showcase</a></p>
-</td>
-<td valign="top" width="33%">&nbsp;</td>
-</tr>
+
 </table>
 
 ## Featured engineering projects
