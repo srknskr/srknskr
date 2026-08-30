@@ -2,6 +2,58 @@
 
 Software developer based in Germany. I build mobile, backend, and native audio products across C#/.NET, Kotlin, Swift, and C++/JUCE, with a focus on clear architecture, reliable integrations, and production delivery.
 
+## Featured mobile apps
+
+<table>
+<tr>
+<td valign="top" width="33%">
+<h3>GrooveMixer</h3>
+<a href="https://github.com/srknskr/GrooveMixer-iOS-showcase"><img src="https://raw.githubusercontent.com/srknskr/GrooveMixer-iOS-showcase/main/IMG_0967.png" width="180" alt="GrooveMixer app screenshot"></a>
+<p><a href="https://github.com/srknskr/GrooveMixer-Android-showcase">GrooveMixer-Android-showcase</a><br><a href="https://github.com/srknskr/GrooveMixer-iOS-showcase">GrooveMixer-iOS-showcase</a></p>
+</td>
+<td valign="top" width="33%">
+<h3>SongAI</h3>
+<a href="https://github.com/srknskr/SongAI-iOS-showcase"><img src="https://raw.githubusercontent.com/srknskr/SongAI-iOS-showcase/main/IMG_0971.png" width="180" alt="SongAI app screenshot"></a>
+<p><a href="https://github.com/srknskr/SongAI-iOS-showcase">SongAI-iOS-showcase</a></p>
+</td>
+<td valign="top" width="33%">
+<h3>DrumPad</h3>
+<a href="https://github.com/srknskr/DrumPad-iOS-showcase"><img src="https://raw.githubusercontent.com/srknskr/DrumPad-iOS-showcase/main/IMG_0244.png" width="180" alt="DrumPad app screenshot"></a>
+<p><a href="https://github.com/srknskr/DrumPad-Android-showcase">DrumPad-Android-showcase</a><br><a href="https://github.com/srknskr/DrumPad-iOS-showcase">DrumPad-iOS-showcase</a></p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="33%">
+<h3>Loopsic</h3>
+<a href="https://github.com/srknskr/Loopsic-iOS-showcase"><img src="https://raw.githubusercontent.com/srknskr/Loopsic-iOS-showcase/main/IMG_9922.png" width="180" alt="Loopsic app screenshot"></a>
+<p><a href="https://github.com/srknskr/Loopsic-Android-showcase">Loopsic-Android-showcase</a><br><a href="https://github.com/srknskr/Loopsic-iOS-showcase">Loopsic-iOS-showcase</a></p>
+</td>
+<td valign="top" width="33%">
+<h3>ChordS</h3>
+<a href="https://github.com/srknskr/ChordS-iOS-showcase"><img src="https://raw.githubusercontent.com/srknskr/ChordS-iOS-showcase/main/IMG_0662.png" width="180" alt="ChordS app screenshot"></a>
+<p><a href="https://github.com/srknskr/ChordS-Android-showcase">ChordS-Android-showcase</a><br><a href="https://github.com/srknskr/ChordS-iOS-showcase">ChordS-iOS-showcase</a></p>
+</td>
+<td valign="top" width="33%">
+<h3>DrumRogue</h3>
+<p><em>Android screenshot pending</em></p>
+<p><a href="https://github.com/srknskr/DrumRogue-Android-showcase">DrumRogue-Android-showcase</a></p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="33%">
+<h3>DrumBeats Huawei</h3>
+<p><em>Android screenshot pending</em></p>
+<p><a href="https://github.com/srknskr/DrumBeatsHuawei-Android-showcase">DrumBeatsHuawei-Android-showcase</a></p>
+</td>
+<td valign="top" width="33%">
+<h3>Sound Effects</h3>
+<p><em>Android screenshot pending</em></p>
+<p><a href="https://github.com/srknskr/SoundEffects-Android-showcase">SoundEffects-Android-showcase</a></p>
+</td>
+<td valign="top" width="33%">&nbsp;</td>
+</tr>
+</table>
+
 ## Featured engineering projects
 
 | Project | Focus |
