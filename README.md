@@ -9,7 +9,7 @@ Software developer based in Germany. I build mobile, backend, and native audio p
 <td valign="top" width="33%">
 <h3>Palette</h3>
 <a href="https://github.com/srknskr/palette-platform"><img src="https://raw.githubusercontent.com/srknskr/palette-platform/main/docs/assets/ios_screenshot.png" width="180" alt="Palette iOS and Android app screenshot"></a>
-<p><a href="https://github.com/srknskr/palette-platform">palette-platform</a><br>KMP · Compose · SwiftUI</p>
+<p><a href="https://github.com/srknskr/palette-platform">palette-platform</a><br>Spring Boot · PostgreSQL · KMP · Compose · SwiftUI</p>
 </td>
 <td valign="top" width="33%">
 <h3>GrooveMixer</h3>
