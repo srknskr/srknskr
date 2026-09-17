@@ -7,6 +7,11 @@ Software developer based in Germany. I build mobile, backend, and native audio p
 <table>
 <tr>
 <td valign="top" width="33%">
+<h3>Palette</h3>
+<a href="https://github.com/srknskr/palette-platform"><img src="https://raw.githubusercontent.com/srknskr/palette-platform/main/docs/assets/ios_screenshot.png" width="180" alt="Palette iOS and Android app screenshot"></a>
+<p><a href="https://github.com/srknskr/palette-platform">palette-platform</a><br>KMP · Compose · SwiftUI</p>
+</td>
+<td valign="top" width="33%">
 <h3>GrooveMixer</h3>
 <a href="https://github.com/srknskr/GrooveMixer-iOS-showcase"><img src="https://raw.githubusercontent.com/srknskr/GrooveMixer-iOS-showcase/main/IMG_0967.png" width="180" alt="GrooveMixer app screenshot"></a>
 <p><a href="https://github.com/srknskr/GrooveMixer-Android-showcase">GrooveMixer-Android-showcase</a><br><a href="https://github.com/srknskr/GrooveMixer-iOS-showcase">GrooveMixer-iOS-showcase</a></p>
@@ -16,13 +21,13 @@ Software developer based in Germany. I build mobile, backend, and native audio p
 <a href="https://github.com/srknskr/SongAI-iOS-showcase"><img src="https://raw.githubusercontent.com/srknskr/SongAI-iOS-showcase/main/IMG_0971.png" width="180" alt="SongAI app screenshot"></a>
 <p><a href="https://github.com/srknskr/SongAI-iOS-showcase">SongAI-iOS-showcase</a></p>
 </td>
+</tr>
+<tr>
 <td valign="top" width="33%">
 <h3>DrumPad</h3>
 <a href="https://github.com/srknskr/DrumPad-iOS-showcase"><img src="https://raw.githubusercontent.com/srknskr/DrumPad-iOS-showcase/main/IMG_0244.png" width="180" alt="DrumPad app screenshot"></a>
 <p><a href="https://github.com/srknskr/DrumPad-Android-showcase">DrumPad-Android-showcase</a><br><a href="https://github.com/srknskr/DrumPad-iOS-showcase">DrumPad-iOS-showcase</a></p>
 </td>
-</tr>
-<tr>
 <td valign="top" width="33%">
 <h3>Loopsic</h3>
 <a href="https://github.com/srknskr/Loopsic-iOS-showcase"><img src="https://raw.githubusercontent.com/srknskr/Loopsic-iOS-showcase/main/IMG_9922.png" width="180" alt="Loopsic app screenshot"></a>
@@ -33,6 +38,8 @@ Software developer based in Germany. I build mobile, backend, and native audio p
 <a href="https://github.com/srknskr/ChordS-iOS-showcase"><img src="https://raw.githubusercontent.com/srknskr/ChordS-iOS-showcase/main/IMG_0662.png" width="180" alt="ChordS app screenshot"></a>
 <p><a href="https://github.com/srknskr/ChordS-Android-showcase">ChordS-Android-showcase</a><br><a href="https://github.com/srknskr/ChordS-iOS-showcase">ChordS-iOS-showcase</a></p>
 </td>
+</tr>
+<tr>
 <td valign="top" width="33%">
 <h3>DrumRogue</h3>
 <a href="https://github.com/srknskr/DrumRogue-Android-showcase"><img src="https://raw.githubusercontent.com/srknskr/DrumRogue-Android-showcase/main/IMG_0979.png" width="180" alt="DrumRogue stage introduction screen"></a>
@@ -46,6 +53,7 @@ Software developer based in Germany. I build mobile, backend, and native audio p
 
 | Project | Focus |
 |---|---|
+| [palette-platform](https://github.com/srknskr/palette-platform) | Full-stack color-palette platform with Spring Boot modular monolith backend, PostgreSQL, Testcontainers, Kotlin Multiplatform (KMP) shared core, Jetpack Compose Material 3 (Android), and SwiftUI (iOS) |
 | [AudioMIR](https://github.com/srknskr/AudioMIR) | Multi-objective automated machine learning for rhythm understanding (tempo estimation & style classification) with Pareto NSGA-II optimization, PyTorch CNNs/BiGRUs, and real-time Streamlit dashboard |
 | [Thesis Testing Replication Package](https://github.com/srknskr/thesis-testing-replication-package) | Reproducible master thesis artifact covering trace-guided genetic algorithms, record-and-replay similarity, Android GUI testing, coverage analysis, statistics, figures, and publication-ready tables |
 | [Audio Plugin Engineering Case Study](https://github.com/srknskr/audio-plugin-engineering-case-study) | Source-free JUCE/C++ case study covering VST3/AU, real-time audio, DAW tempo sync, drag-and-drop, licensing, and cross-platform builds |
@@ -68,7 +76,7 @@ Each repository documents its real architecture, setup requirements, verified bu
 
 ## Core technologies
 
-Python, PyTorch, Machine Listening / MIR, Multi-Objective AutoML (NSGA-II), C#, .NET, ASP.NET Core, Entity Framework, SQL Server, SQLite, C++20, JUCE, CMake, Kotlin, Swift, Android, iOS, REST APIs, Git, and CI/CD.
+Kotlin, Kotlin Multiplatform (KMP), Swift, SwiftUI, Jetpack Compose, Spring Boot, PostgreSQL, Testcontainers, Python, PyTorch, Machine Listening / MIR, Multi-Objective AutoML (NSGA-II), C#, .NET, ASP.NET Core, Entity Framework, SQL Server, SQLite, C++20, JUCE, CMake, Android, iOS, REST APIs, Git, and CI/CD.
 
 ## Connect
 
