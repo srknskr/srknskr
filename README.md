@@ -14,6 +14,7 @@ Software developer based in Germany. I build mobile, backend, and native audio p
 <td valign="top" width="33%">
 <h3>GrooveMixer</h3>
 <a href="https://github.com/srknskr/GrooveMixer-iOS-showcase"><img src="https://raw.githubusercontent.com/srknskr/GrooveMixer-iOS-showcase/main/IMG_0967.png" width="180" alt="GrooveMixer app screenshot"></a>
+<p><a href="https://apps.apple.com/us/app/groove-mixer-drum-loops/id6806850413"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Download_on_the_App_Store_Badge.svg" height="28" alt="Download on the App Store"></a> <a href="https://play.google.com/store/apps/details?id=com.serkanseker.groovemixer"><img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" height="28" alt="Get it on Google Play"></a></p>
 <p><a href="https://github.com/srknskr/GrooveMixer-Android-showcase">GrooveMixer-Android-showcase</a><br><a href="https://github.com/srknskr/GrooveMixer-iOS-showcase">GrooveMixer-iOS-showcase</a></p>
 </td>
 <td valign="top" width="33%">
@@ -26,16 +27,19 @@ Software developer based in Germany. I build mobile, backend, and native audio p
 <td valign="top" width="33%">
 <h3>DrumPad</h3>
 <a href="https://github.com/srknskr/DrumPad-iOS-showcase"><img src="https://raw.githubusercontent.com/srknskr/DrumPad-iOS-showcase/main/IMG_0244.png" width="180" alt="DrumPad app screenshot"></a>
+<p><a href="https://apps.apple.com/us/app/drum-pad-music-maker/id6789892646"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Download_on_the_App_Store_Badge.svg" height="28" alt="Download on the App Store"></a> <a href="https://play.google.com/store/apps/details?id=com.serkanseker.drumpad"><img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" height="28" alt="Get it on Google Play"></a></p>
 <p><a href="https://github.com/srknskr/DrumPad-Android-showcase">DrumPad-Android-showcase</a><br><a href="https://github.com/srknskr/DrumPad-iOS-showcase">DrumPad-iOS-showcase</a></p>
 </td>
 <td valign="top" width="33%">
 <h3>Loopsic</h3>
 <a href="https://github.com/srknskr/Loopsic-iOS-showcase"><img src="https://raw.githubusercontent.com/srknskr/Loopsic-iOS-showcase/main/IMG_9922.png" width="180" alt="Loopsic app screenshot"></a>
+<p><a href="https://apps.apple.com/us/app/loopsic-best-drum-loops/id1645855247"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Download_on_the_App_Store_Badge.svg" height="28" alt="Download on the App Store"></a> <a href="https://play.google.com/store/apps/details?id=com.serkanseker.loopsic"><img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" height="28" alt="Get it on Google Play"></a></p>
 <p><a href="https://github.com/srknskr/Loopsic-Android-showcase">Loopsic-Android-showcase</a><br><a href="https://github.com/srknskr/Loopsic-iOS-showcase">Loopsic-iOS-showcase</a></p>
 </td>
 <td valign="top" width="33%">
 <h3>ChordS</h3>
 <a href="https://github.com/srknskr/ChordS-iOS-showcase"><img src="https://raw.githubusercontent.com/srknskr/ChordS-iOS-showcase/main/IMG_0662.png" width="180" alt="ChordS app screenshot"></a>
+<p><a href="https://apps.apple.com/us/app/chords-chord-rhythm-loops/id6770242419"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Download_on_the_App_Store_Badge.svg" height="28" alt="Download on the App Store"></a> <a href="https://play.google.com/store/apps/details?id=com.serkanseker.chords"><img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" height="28" alt="Get it on Google Play"></a></p>
 <p><a href="https://github.com/srknskr/ChordS-Android-showcase">ChordS-Android-showcase</a><br><a href="https://github.com/srknskr/ChordS-iOS-showcase">ChordS-iOS-showcase</a></p>
 </td>
 </tr>
