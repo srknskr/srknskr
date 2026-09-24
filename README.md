@@ -82,6 +82,13 @@ Each repository documents its real architecture, setup requirements, verified bu
 
 Kotlin, Kotlin Multiplatform (KMP), Swift, SwiftUI, Jetpack Compose, Spring Boot, PostgreSQL, Testcontainers, Python, PyTorch, Machine Listening / MIR, Multi-Objective AutoML (NSGA-II), C#, .NET, ASP.NET Core, Entity Framework, SQL Server, SQLite, C++20, JUCE, CMake, Android, iOS, REST APIs, Git, and CI/CD.
 
+## Certifications
+
+[![Kotlin Professional Certificate](https://img.shields.io/badge/JetBrains-Kotlin%20Professional%20Certificate-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)](https://www.linkedin.com/learning/certificates/616d5fc2ac5693b6f6dfd89ada5817a756ea46dc1185a14a4f68c41fc0b8bf9a)
+
+- 🎓 **[Kotlin Professional Certificate by JetBrains](https://www.linkedin.com/learning/certificates/616d5fc2ac5693b6f6dfd89ada5817a756ea46dc1185a14a4f68c41fc0b8bf9a)** — JetBrains · LinkedIn Learning (Sep 2026)  
+  *Core focus:* Kotlin fundamentals & OOP, Coroutines & concurrency, Kotlin Multiplatform (KMP), Compose Multiplatform, Ktor, and Swift interoperability.
+
 ## Connect
 
 - [LinkedIn](https://www.linkedin.com/in/serky/)
